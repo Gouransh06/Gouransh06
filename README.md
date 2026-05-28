@@ -1,16 +1,42 @@
-## Hi there 👋
+💫 About Me:
+👨‍💻 About Me
 
-<!--
-**Gouransh06/Gouransh06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on
+Building my skills in Web Development, C++, and AI/ML projects
 
-Here are some ideas to get you started:
+👯 I’m looking to collaborate on
+Open-source projects, web apps, and beginner-friendly tech startups
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 I’m looking for help with
+Advanced backend development, DSA, and real-world project architecture
+
+🌱 I’m currently learning
+Full-Stack Development, Machine Learning, and modern development tools
+
+💬 Ask me about
+Web development, internships, C++, GitHub, and tech learning strategies
+
+⚡ Fun fact
+I enjoy turning ideas into projects and learning by building things
+🌐 Socials:
+Instagram LinkedIn email
+
+💻 Tech Stack:
+C C++ CSS3 JavaScript HTML5 Python R Google Cloud NodeJS WordPress MySQL ApacheCassandra Canva Adobe Acrobat Reader Adobe Adobe Lightroom Pandas TensorFlow PyTorch NumPy Git GitHub Unreal Engine Arduino
+
+📊 GitHub Stats:
+
+
+
+
+
+
+🏆 GitHub Trophies
+
+
+✍️ Random Dev Quote
+
+
+🔝 Top Contributed Repo
+
+
