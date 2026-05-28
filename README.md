@@ -1,5 +1,4 @@
 💫 About Me:
-👨‍💻 About Me
 
 🔭 I’m currently working on
 Building my skills in Web Development, C++, and AI/ML projects
