@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>Building my skills in Web Development, C++, and AI/ML projects<br><br>🤝 I’m looking for help with  <br>Advanced backend development, DSA, and real-world project architecture<br><br>🌱 I’m currently learning  <br>Full-Stack Development, Machine Learning, and modern development tools<br><br>
+## 👨‍💻 About Me<br><br>🔭 I’m currently working on  <br>Building my skills in Web Development, C++, and AI/ML projects<br><br>🌱 I’m currently learning  <br>Full-Stack Development, Machine Learning, and modern development tools<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gouransh.__06) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/gouransh-gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gouransh0603@gmail.com) 
